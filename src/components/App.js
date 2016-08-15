@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "react-router"
+import main from "main.js"
 const App = React.createClass({
   render() {
     return (

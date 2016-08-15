@@ -86,3 +86,5 @@ const ItemBoard = React.createClass({
     )
   }
 })
+
+export default main;
